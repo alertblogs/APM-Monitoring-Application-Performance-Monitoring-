@@ -2,7 +2,7 @@ APM Monitoring (Application Performance Monitoring)?
 ========
 
  
- Application performance monitoring (APM) solutions can help your business enhance its IT and grow its operations. To understand why, let’s answer some of the key questions surrounding APM.
+Application performance monitoring (APM) solutions can help your business enhance its IT and grow its operations. To understand why, let’s answer some of the key questions surrounding APM.
  
 What Is Application Performance Monitoring?
 =====
@@ -25,12 +25,11 @@ The solution modifies a business’ application environment based on any past ap
 How Does an APM Solution Measure Application Performance?
 
 An APM solution uses various metrics to measure app performance. These include:
-
-    CPU Usage: Determines if CPU usage, memory demands, and disk read/write speeds impact app performance.
-    Error Rates: Tracks how often app performance changes based on software error rates.
-    Response Times: Highlights the impact of speed on app performance.
-    Number of Instances: Indicates if the number of server or app instances running at once impact app performance.
-    Uptime: Monitors how often an app is available and online; this metric is important to determine if a business complies with SLAs.
+CPU Usage: Determines if CPU usage, memory demands, and disk read/write speeds impact app performance.
+Error Rates: Tracks how often app performance changes based on software error rates.
+Response Times: Highlights the impact of speed on app performance.
+Number of Instances: Indicates if the number of server or app instances running at once impact app performance.
+Uptime: Monitors how often an app is available and online; this metric is important to determine if a business complies with SLAs.
 
 An APM solution lets an IT team correlate data from multiple sources. In doing so, the solution provides a single source of truth for app performance.
 
@@ -57,11 +56,11 @@ What Application Performance Factors Should You Consider As You Evaluate APM Sol
 ====
 To identify an APM monitoring solution that your business can use to effectively track the performance of its apps, you need to consider a solution that lets you:
 
-    Calculate user satisfaction based on your apps’ average response times and error rates.
-    Monitor app usage to predict and prepare for traffic spikes.
-    Track physical and virtual servers to identify excessive CPU load, low storage, virtual resource allocation, and hardware issues.
-    Evaluate dependencies between different app systems and eliminate potential bottlenecks.
-    Assess your storage and resource capacity to prepare for future workload management.
+Calculate user satisfaction based on your apps’ average response times and error rates.
+Monitor app usage to predict and prepare for traffic spikes.
+Track physical and virtual servers to identify excessive CPU load, low storage, virtual resource allocation, and hardware issues.
+Evaluate dependencies between different app systems and eliminate potential bottlenecks.
+Assess your storage and resource capacity to prepare for future workload management.
 
 An APM monitoring solution should make it simple to transform app performance data into actionable insights, too. This ensures that you can use the solution to gain the insights you need to optimize app performance across your operations.
 
